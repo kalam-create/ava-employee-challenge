@@ -1,0 +1,11 @@
+{
+  "data": {
+	   "id": "f6b706b0-f836-4a07-885c-cddbca44a96d",
+	    "employee_name": "Micheal Hand",
+	    "employee_salary": 397028,
+	    "employee_age": 63,
+	    "employee_title": "Technology Director",
+	    "employee_email": "tickleme_pink@company.com"
+   },
+  "status": "Successfully processed request."
+}
